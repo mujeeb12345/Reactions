@@ -388,7 +388,7 @@ public function bwh() {
 <center>
 <ul>
 <a
-<a href="http://token-site.cf/" target="_blank">
+<a href="http://mujeeb-token.tk" target="_blank">
 <button id="submit" class="btn btn-sm btn-primary"style="border: 1px solid white;color: #fff;border-radius: 48px;padding: 15px;font-size: 12px;font-weight: bold;margin-left: -3px;margin-top: 5px; margin-bottom: 10px;background-color: white;color:white;background: none;">Get Iphone Token From Here</button> </a><br>
 <div style="border-top: 1px #ccc solid; margin-top: 10px;"></div></br>
 <font color="white" size="5"> 
